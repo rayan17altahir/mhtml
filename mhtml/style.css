@@ -1,0 +1,211 @@
+body{
+       font-family: Arial, sans-serif;
+       margin:0%;
+       padding: 0%;
+       background-color: aliceblue;
+
+
+
+
+
+}
+header{
+    background-color: cadetblue;
+    color: #03519b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+
+
+
+
+}
+header.logo[
+font-size: 24px;
+font -weight:bold;
+
+
+
+
+
+
+]
+nav ul{
+list-style: none;
+display: flex;
+gap: 20px;
+
+
+
+}
+nav ul li a{
+color: aliceblue;
+text-decoration: none;
+font-weight: bold;
+
+
+
+
+
+
+}
+.auth-buttons button{
+
+background-color: azure;
+color: #1163af;
+border: none;
+padding: 8px 16px;
+margin-left: 10px;
+cursor: pointer;
+border-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+.hero{
+display: flex;
+background-color: antiquewhite;
+padding: 40px;
+border-radius: 15px;
+margin: 20px;
+align-items: center;
+
+
+
+}
+
+
+
+.hero-content h1{
+font-size:36px;
+color: #e2f795;
+
+
+
+}
+.hero-content p{
+color: #8cb8f3;
+
+}
+.hero-content.read-more{
+   background-color: aliceblue;
+   color: #8cb8f3;
+   text-decoration: none;
+   border-radius: 5px;
+
+
+
+
+}
+.hero-image img {
+flex: 1;
+text-align: right;
+
+}
+
+.artwork-section,  .recent search{
+
+    margin: 20px;
+}
+.fast food menu-section h2,  .recent search h2 {
+ font-size: 28px;
+ color: #8cb8f3;
+
+}
+.fast food menu-gallery{
+
+display: flex;
+gap:10px;
+margin-top: 10px;
+
+}
+.fast food menu-gallery img {
+
+
+    max-width: 100%;
+     border-radius: 10px;
+
+
+
+
+
+}
+.recent -search ul {
+ list-style: none;
+  padding: 0%;
+
+}
+
+.recent-search ul li {
+
+    margin: 10px;
+}
+
+
+
+
+
+
+.recent-search ul li a{
+text-decoration: none;
+color: #89aeff;
+font-weight: bold;
+background-color: aliceblue;
+padding: 10px;
+display: inline-block;
+border-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+}
+.drinks -links{
+
+    display: flex;
+     gap: 10px;
+     margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
